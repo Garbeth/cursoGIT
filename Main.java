@@ -18,7 +18,9 @@ public class Main {
         int testGIT;
         for (int i = 0; i < 10; i++) {
             System.out.println("hola que ase");
+            
         }
+        System.out.println("holis");
     }
     
 }
