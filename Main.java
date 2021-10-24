@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         int testGIT;
         for (int i = 0; i < 10; i++) {
-            System.out.println("hola que ase");
+            System.out.println("hola que ase los 2");
             
         }
         System.out.println("holis");
