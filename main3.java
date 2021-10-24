@@ -9,16 +9,8 @@ package com.mycompany.empresaa;
  *
  * @author jguzm
  */
-public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        int testGIT;
-        for (int i = 0; i < 10; i++) {
-            System.out.println("hola que ase");
-        }
-    }
+public class main3 {
+    int edad=3;
     
+    String hola="holas";
 }
